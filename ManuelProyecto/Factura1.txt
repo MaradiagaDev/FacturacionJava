@@ -1,0 +1,24 @@
+------------FACTURA DE LA TIENDA MANUEL S.A------------
+Numero de factura: 1
+NIT.12234565
+Universidad Nacional de Ingenieria
+Telefono: 5555-5555
+ Fecha: SUNDAY/NOVEMBER/2021
+
+------------------------------------------------------
+Datos del cliente: 
+
+Nombre: Rolando
+Direccion: Santa
+Documentos: 123
+
+Productos: 
+---------------------------------------------------------
+Producto	Cantidad	Precio
+toalla		2		23
+
+
+Sub Total de su cuenta(Cordobas):	46
+Descuento de %0 :0.0
+Iva(15%): 6.8999999999999995
+Total de la cuenta: 39.1 Cordobas
